@@ -633,10 +633,6 @@ alias vpnd='nordvpn disconnect && nordvpn status | grep Status'
 alias win11='sudo virsh start win11'
 alias macOS='sudo virsh start macOS'
 
-# #Bible Study
-# alias csb=foliate "/home/deuce/pCloudDrive/Library/Books/CSB Baker Illustrated Study Bible.epub"
-# alias recap=foliate "/home/deuce/pCloudDrive/Library/Books/Cobble, Tara-Leigh -  The Bible Recap Study Guide Daily Questions to Deepen Your Understanding of the Entire Bible.epub"
-
 alias pmm1='python3 -m venv pmm-venv'
 alias pmm2='source pmm-venv/bin/activate'
 alias pmm3='python kometa.py -r'
