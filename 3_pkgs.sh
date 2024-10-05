@@ -108,6 +108,7 @@ pacman_list=(
 	nwg-look
 	obsidian
 	obs-studio
+	os-prober
 	pamixer
 	pacman-contrib	
 	papirus-icon-theme
@@ -136,6 +137,7 @@ pacman_list=(
 	viewnior
 	virt-manager
 	vlc
+	xorg-xhost
 	
 	####################
 	####      Files ####
@@ -172,6 +174,15 @@ pacman_list=(
 	steam
 	proton-ge-custom-bin 
 	lib32-vulkan-radeon
+	
+	#####################
+	## Remote Desktop ##
+	####################
+	 remmina
+	 freerdp
+	 libvncserver
+	 gnome-terminal
+	
 	
 	####################
 	#### Utilities  ####
@@ -217,8 +228,7 @@ yay_list=(
 	spotify
 	spotifywn-git
 	timeshift
-	timeshift-autosnap
-	wps-office
+	timeshift-autosnap	
 	Visual-studio-code-bin
 	
 	#fonts
