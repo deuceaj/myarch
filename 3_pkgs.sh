@@ -133,8 +133,7 @@ pacman_list=(
 	timeshift
 	torbrowser-launcer
 	wl-clipboard
-	wf-recorder
-	viewnior
+	wf-recorder	
 	virt-manager
 	vlc
 	xorg-xhost
@@ -150,6 +149,7 @@ pacman_list=(
 	#### Images ####
 	####################
 	 imagemagick
+	 loupe
 
 	####################
 	#### Multimedia ####
@@ -174,6 +174,12 @@ pacman_list=(
 	steam
 	proton-ge-custom-bin 
 	lib32-vulkan-radeon
+	mesa
+	vulkan-mesa-layers
+	lib32-vulkan-mesa-layers
+	mangohud
+	gamemode
+
 	
 	#####################
 	## Remote Desktop ##
@@ -212,6 +218,7 @@ yay_list=(
 
 	#aur
 	archlinux-tweak-tool-git 
+	arcolinux-grub-theme-vimix-git
 	brave-bin
 	ckb-next
 	emote
@@ -229,7 +236,8 @@ yay_list=(
 	spotifywn-git
 	timeshift
 	timeshift-autosnap	
-	Visual-studio-code-bin
+	visual-studio-code-bin
+	wps-office
 	
 	#fonts
 	ttf-ms-fonts
