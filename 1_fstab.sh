@@ -59,7 +59,7 @@ if ! sudo bash -c 'cat << EOF >> /etc/fstab
 
 #Mount Hard Drives
     UUID=b1121d57-4180-4ad1-af4f-158af3b18883   /media/Epsilon   btrfs   nofail             0 0
-    # UUID=cd755bff-8cc1-4672-9655-ce40b91ff482   /media/Gamma     ext4    nofail             0 0
+
 
 #Mount Network Drives
     //192.168.2.11/Delta/                       /media/Delta     cifs    vers=2.0,credentials=/home/deuce/.local/.smbcredentials,iocharset=utf8,gid=1000,uid=1000,file_mode=0777,dir_mode=0777   0 0
