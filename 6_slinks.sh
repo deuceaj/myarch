@@ -5,7 +5,7 @@ base_target=/media/Epsilon/deuce_dot/
 
 # Define the folders to process
 folders=(
-    .steam
+    # .steam
     .ssh
     .pcloud
     .fonts

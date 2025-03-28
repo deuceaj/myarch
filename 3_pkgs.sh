@@ -93,15 +93,16 @@ pacman_list=(
 	ffmpeg
 	ffmpegthumbnailer
 	firefox
-	foliate
+	# foliate
 	git
-	gtk-theme-elementary
+	# gtk-theme-elementary
 	gparted
 	gtk3	
 	guvcview
 	gvfs-mtp
 	kitty
 	mpv
+	nemo
 	neovim
 	noise-suppression-for-voice
 	ntfs-3g
@@ -109,6 +110,7 @@ pacman_list=(
 	obsidian
 	obs-studio
 	os-prober
+	okular
 	pamixer
 	pacman-contrib	
 	papirus-icon-theme
@@ -168,17 +170,17 @@ pacman_list=(
 	unzip
 	xarchiver	
 
-	####################
-	#### Gaming     ####
-	####################
-	steam
-	proton-ge-custom-bin 
-	lib32-vulkan-radeon
-	mesa
-	vulkan-mesa-layers
-	lib32-vulkan-mesa-layers
-	mangohud
-	gamemode
+	# ####################
+	# #### Gaming     ####
+	# ####################
+	# steam
+	# proton-ge-custom-bin 
+	# lib32-vulkan-radeon
+	# mesa
+	# vulkan-mesa-layers
+	# lib32-vulkan-mesa-layers
+	# mangohud
+	# gamemode
 
 	
 	#####################
@@ -219,7 +221,8 @@ yay_list=(
 	#aur
 	archlinux-tweak-tool-git 
 	arcolinux-grub-theme-vimix-git
-	brave-bin
+	floorp-bin
+	sofirem-git
 	ckb-next
 	emote
 	input-remapper-git
