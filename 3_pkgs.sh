@@ -101,6 +101,7 @@ pacman_list=(
 	guvcview
 	gvfs-mtp
 	kitty
+	loupe
 	mpv
 	nemo
 	neovim
